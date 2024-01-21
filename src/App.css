@@ -1,0 +1,11 @@
+.khqr {
+  background: #e21a1a;
+  height: 47.52px;
+}
+.triangle-top-right {
+  border-left: 22.86px solid transparent;
+  border-top: 22.86px solid #e21a1a;
+  height: 0;
+  width: 0;
+  float: right;
+}
